@@ -1,4 +1,4 @@
-# easily export phone numbers from whatsapp
+## easily export phone numbers from whatsapp
 
 # how to use
 1. open whatsapp web & connect
